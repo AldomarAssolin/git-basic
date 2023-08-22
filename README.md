@@ -1,6 +1,6 @@
 >Tutorial Git
 >
->Este tutorial tem por objetivo disponibilizar alguns comandos git de uso frequente, visando a acessibilidade destas informações, por iniciantes na área de versionamento de código.
+>Este tutorial tem por objetivo disponibilizar alguns comandos git de uso frequente, visando a acessibilidade destas informações, para iniciantes na área de versionamento de código. Apresentamos um tutorial de comandos Git e do GitHub para versionamento de código, duas ferramentas essenciais para qualquer desenvolvedor de software. Vamos explorar alguns comandos básicos para quem está começando e precisa de um guia até fixar o conhecimento.
 
 
 
