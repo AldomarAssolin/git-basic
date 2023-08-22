@@ -126,3 +126,11 @@ Com estes exemplos, você terá um guia completo para entender e começar a trab
 https://github.com/AldomarAssolin)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldomarassolin)
 [![instagram](https://img.shields.io/badge/instagram-B7106B?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/aldomarassolin/)
+
+## Referência
+
+ - [Git Documentation](https://git-scm.com/doc)
+ - [Solicitações de pull](https://docs.github.com/pt/pull-requests)
+ - [Curso Git e Github - DIO](https://www.dio.me/)
+
+
